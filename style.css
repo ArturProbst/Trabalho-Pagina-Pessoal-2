@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabesario{
+    background-color: #4FDB39;
+    color: purple;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+.imagemdocabesario{
+    width: 20%;
+}
+.cabesariolistaitem{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
